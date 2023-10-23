@@ -1,0 +1,9 @@
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\bin\Debug\Game iMG.exe.config
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\obj\Debug\Game iMG.exe
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\obj\Debug\Game iMG.pdb
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\bin\Debug\Game iMG.exe
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\bin\Debug\Game iMG.pdb
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\obj\Debug\Game iMG.csprojResolveAssemblyReference.cache
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\obj\Debug\Picture_Puzzle.Form1.resources
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\obj\Debug\Picture_Puzzle.Properties.Resources.resources
+C:\Users\hacker\Desktop\Game iMG\Picture Puzzle\obj\Debug\Game iMG.csproj.GenerateResource.Cache
